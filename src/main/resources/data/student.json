@@ -1,0 +1,15 @@
+{
+  "firstName" : "Maciek",
+  "lastName" : "Kowalski",
+  "birthDate" : "18-05-1980",
+  "active" : true,
+  "address" : {
+    "city" : "Krakow",
+    "street" : "Wadowicka",
+    "zip" : "43-300"
+  },
+  "languages" : [
+    "PHP",
+    "JAVA","C++"],
+  "extraFiled" : "fiels"
+}
