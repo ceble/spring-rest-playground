@@ -1,4 +1,4 @@
-package pl.itgladiator.core;
+package jackson.demo.core;
 
 public class Address {
     private String city;

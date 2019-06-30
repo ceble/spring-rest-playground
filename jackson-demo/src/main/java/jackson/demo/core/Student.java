@@ -1,4 +1,4 @@
-package pl.itgladiator.core;
+package jackson.demo.core;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

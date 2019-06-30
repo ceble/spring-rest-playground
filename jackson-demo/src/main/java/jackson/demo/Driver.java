@@ -1,9 +1,11 @@
+package jackson.demo;
+
 import java.io.File;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import pl.itgladiator.core.Student;
+import jackson.demo.core.Student;
 
 
 public class Driver {
