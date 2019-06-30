@@ -15,7 +15,7 @@ public class Driver {
         try {
             ObjectMapper mapper = new ObjectMapper();
 
-            Student firstStudent = mapper.readValue(new File("src/main/resources/data/student.json"), Student.class);
+            Student firstStudent = mapper.readValue(new File("jackson-demo/src/main/resources/data/student.json"), Student.class);
 
             System.out.println(firstStudent.getFirstName());
             System.out.println(firstStudent.getLastName());
